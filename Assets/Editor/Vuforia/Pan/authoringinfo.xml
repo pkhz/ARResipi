@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.12.3">
+<ModelTarget name="Pan" targetId="85ae23201c3243128c4217391a6ea8a4" version="14.0" toolVersion="10.12.3" bbox="-0.297746 -0.002121 -0.106864 0.106864 0.060674 0.106795" previewImage="85ae23201c3243128c4217391a6ea8a4_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Pans_assembly" assemblyId="ac883ef043554687b8e22b750cd474a1">
+<Part name="Pan" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0496448 0.0675167 0.501111" rotation="AD: 0.997232 -0.157746 0.560035 207.348" image="Pan_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0659342 0.0488672 0.498521" rotation="AD: 0.999666 -0.0665121 0.427249 196.263" image="Pan_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.064214 0.0589409 0.506692" rotation="AD: 0.999071 -0.109835 0.44163 205.506" image="Pan_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

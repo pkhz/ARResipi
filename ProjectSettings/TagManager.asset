@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - step1
+  - videoplane
+  - bahan
+  - canvas
+  - bahaninpilihpanel
+  - makananinpilihpanel
+  - panelforpilihmakanan
+  - namabahan
+  - namaresipi
+  - bahanNext
+  - bahanPrev
+  - bahanMakananNext
+  - bahanMakananPrev
+  - tempatmakananbahan
+  - imagetarget
+  - makanan
+  - tutoimage
+  - tutotext
+  - playpause
+  - confirmationmuatturun
+  - confirmtext
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

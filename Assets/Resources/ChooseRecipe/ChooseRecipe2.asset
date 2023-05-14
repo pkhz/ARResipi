@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d68a59a23b9041a43bb054077a606739, type: 3}
+  m_Name: ChooseRecipe2
+  m_EditorClassIdentifier: 
+  num: 2
+  makanan: {fileID: 486343884040572632, guid: de9115d16d8d5174c9d8822dcda78c5b, type: 3}
+  bahan:
+  - {fileID: 4406345790600357287, guid: be0a7ae6a640ece4382da980345cc381, type: 3}
+  recipeImage: {fileID: 21300000, guid: 765bac0c5f60fc14daad94cd8e245e29, type: 3}

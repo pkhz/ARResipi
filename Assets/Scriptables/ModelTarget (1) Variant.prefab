@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7870982567364597309
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0124
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0134
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.08005287
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99679065
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -189.183
+      objectReference: {fileID: 0}
+    - target: {fileID: 774336678144554906, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mWidth
+      value: 0.110147
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mHeight
+      value: 0.130814
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mLength
+      value: 0.150287
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mBaseSize
+      value: 0.150287
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mBBoxMax.x
+      value: 0.0733
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mBBoxMax.y
+      value: 0.110221
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mBBoxMax.z
+      value: 0.076539
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mBBoxMin.x
+      value: -0.076987
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mBBoxMin.y
+      value: 0.000074
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mBBoxMin.z
+      value: -0.054275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mDataSetPath
+      value: Vuforia/VuforiaMars_ModelTarget.xml
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mPreviewImage
+      value: 
+      objectReference: {fileID: 2800000, guid: fe5f4afb4ba99ea9b6dcb486efae3401, type: 3}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mAspectRatioXY
+      value: 0.732911
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mAspectRatioXZ
+      value: 0.8704279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mTrackableName
+      value: VuforiaMars_ModelTarget
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mSelectedGuideView
+      value: Back
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897584932901514064, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m2DGuideViewMaterial
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783137895759537829, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_Name
+      value: ModelTarget (1) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436801885415186107, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mHiddenRoot
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436801885415186107, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: mModelTargetPreview
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8929485107904100712, guid: 549285a0f5115f94ab8a6a7a38c6dd0d,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 549285a0f5115f94ab8a6a7a38c6dd0d, type: 3}

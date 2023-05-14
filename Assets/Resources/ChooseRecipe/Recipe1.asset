@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4404d6e2d7347974bb142a69a5288c68, type: 3}
+  m_Name: Recipe1
+  m_EditorClassIdentifier: 
+  num: 1
+  recipeName: Ayam Masak Kicap
+  makanan: {fileID: 919132149155446097, guid: 10a4874c52400dc4b872b089ef8ed1af, type: 3}
+  steps:
+  - 1. Gaul ayam bersama garam dan kunyit.
+  - 2. Panaskan minyak dan goreng ayam separuh masak. Angkat dan ketepikan.
+  - 3. Kurangkan sedikit minyak gorengan ayam tadi cukup sekadar untuk tumisan. Masukkan
+    bbawang putih dan merah dan kacau sehingga kekuningan.
+  - 4. Masukkan sos tiram, dan ayam tadi. Kacau seketika.
+  - 5. Masukkan pula kicap, agak-agak sahaja supaya cukup kuahnya, kemudian masukkan
+    cili merah dan sedikit air.
+  - 6. Tutup dan biarkan ayam. Kacau sekejap sahaja anggaran bawang sedikit layu
+    dan padamkan api.
+  - 7. Angkat dan hidang. Siap.
+  bahan:
+  - {fileID: 919132149155446097, guid: 3f57926b7ac28ad429a38cfce85b9f01, type: 3}
+  - {fileID: 919132149155446097, guid: 2a0a24179ce625b4e9927ad463627652, type: 3}
+  - {fileID: 919132149155446097, guid: 4701c94627fb4a541987c406aa4c002b, type: 3}
+  - {fileID: 919132149155446097, guid: 3abc52c9b02f4f14eb3a679e58316d9f, type: 3}
+  - {fileID: 919132149155446097, guid: cc36fa955a7469840b7e5991ece8d265, type: 3}
+  - {fileID: 919132149155446097, guid: 2a0a24179ce625b4e9927ad463627652, type: 3}
+  - {fileID: 919132149155446097, guid: 10a4874c52400dc4b872b089ef8ed1af, type: 3}
+  bahanName:
+  - Minyak
+  - Telur
+  videos:
+  - {fileID: 32900000, guid: 349995f759add1741a3a15066c04c38f, type: 3}
+  - {fileID: 32900000, guid: 0cf4e374fdafbb745bc607a43508fbd8, type: 3}
+  - {fileID: 32900000, guid: 01f80cfe4a810094386c0d9ac99525b1, type: 3}
+  - {fileID: 32900000, guid: cdb7f76ec80a50d4d9b7f15583eb4c07, type: 3}
+  - {fileID: 32900000, guid: 00917b2f22e3708439e415164cd96a00, type: 3}
+  - {fileID: 32900000, guid: bcd2177a6d6f4a3459b1f069da6e1d39, type: 3}
+  - {fileID: 32900000, guid: c9c8f359e69556a4384debe55825c803, type: 3}

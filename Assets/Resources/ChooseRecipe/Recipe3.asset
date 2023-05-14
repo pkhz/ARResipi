@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4404d6e2d7347974bb142a69a5288c68, type: 3}
+  m_Name: Recipe3
+  m_EditorClassIdentifier: 
+  num: 3
+  recipeName: Ayam Goreng Kunyit
+  makanan: {fileID: 919132149155446097, guid: cf18c321ff846564bb242d615872d4c8, type: 3}
+  steps:
+  - 1. Potong dada ayam kepada kiub kecil.
+  - 2. Gaulkan dengan serbuk kunyit dan sedikit garam. Perap selama 5 minit.
+  - 3. Panaskan minyak dan goreng dada ayam di atas api yang besar. Kacau dengan
+    kerap supaya tidak mudah keras dan hangus.
+  - 4. Apabila ayam hampir masak masukkan cili merah, bawang besar dan kacang panjang.
+    Taburkan dengan sedikit gula. Kacau.
+  - 5. Siap dan hidang.
+  bahan:
+  - {fileID: 919132149155446097, guid: 2a0a24179ce625b4e9927ad463627652, type: 3}
+  - {fileID: 919132149155446097, guid: a899e65d18affe941999a5ae1de1c0fa, type: 3}
+  - {fileID: 919132149155446097, guid: 2a0a24179ce625b4e9927ad463627652, type: 3}
+  - {fileID: 919132149155446097, guid: 4773d2f1b1bb1f244a8e37a98cf87905, type: 3}
+  - {fileID: 919132149155446097, guid: 87d614f555b8836419c5007a754c0263, type: 3}
+  bahanName:
+  - Sosej
+  - Minyak
+  videos:
+  - {fileID: 32900000, guid: 9bbb3c4e04986f7418d2416bf6abb041, type: 3}
+  - {fileID: 32900000, guid: 9bbb3c4e04986f7418d2416bf6abb041, type: 3}
+  - {fileID: 32900000, guid: 5fd261649bcbae84abb29b520b53ebd9, type: 3}
+  - {fileID: 32900000, guid: 5aab1bc9781ea23498c38c0deceaff68, type: 3}
+  - {fileID: 32900000, guid: 495e96d1b8568d04bb82d0f43f25f207, type: 3}

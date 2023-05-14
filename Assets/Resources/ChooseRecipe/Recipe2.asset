@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4404d6e2d7347974bb142a69a5288c68, type: 3}
+  m_Name: Recipe2
+  m_EditorClassIdentifier: 
+  num: 2
+  recipeName: Nasi Goreng Ikan Masin
+  makanan: {fileID: 919132149155446097, guid: 28fc525852b929049a9b90702e364143, type: 3}
+  steps:
+  - 1. Panaskan minyak. Masukkan ikan masin dan goreng. Kemudian, hancurkan.
+  - 2. Masukkan bawang besar dan putih dan gorengkan.
+  - 3. Masukkan cili dan sayur kailan. Goreng.
+  - 4. Masukkan nasi putih dan gaul. Goreng sehingga masak.
+  - 5. Siap dan hidang.
+  bahan:
+  - {fileID: 919132149155446097, guid: 12a4353f2d2549044a44b6b95698c9c2, type: 3}
+  - {fileID: 919132149155446097, guid: 4701c94627fb4a541987c406aa4c002b, type: 3}
+  - {fileID: 919132149155446097, guid: baf33181998f4e04a8133139bc38dbcd, type: 3}
+  - {fileID: 919132149155446097, guid: 991aba682d28e964d83d9671010b1222, type: 3}
+  - {fileID: 919132149155446097, guid: a0782e095dbf1f845aae5471e04a2f4c, type: 3}
+  bahanName:
+  - Telur
+  - Garam
+  - Minyak
+  videos:
+  - {fileID: 32900000, guid: 1f530c1f3b020de428d5315c1c058b1a, type: 3}
+  - {fileID: 32900000, guid: 509078f243714e642960ab7588457cbc, type: 3}
+  - {fileID: 32900000, guid: c532c2e3ea0e6ce409a246a3760efc1c, type: 3}
+  - {fileID: 32900000, guid: e85fd3f2b9a690f459cd65139382882d, type: 3}
+  - {fileID: 32900000, guid: 391eeb36b58f87c45ae136e942733987, type: 3}

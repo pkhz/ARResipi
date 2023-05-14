@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4404d6e2d7347974bb142a69a5288c68, type: 3}
+  m_Name: Recipe1
+  m_EditorClassIdentifier: 
+  num: 1
+  recipeName: Ayam Goreng Kunyit
+  makanan: {fileID: 7410458949457363288, guid: cf85ecdb8b9d17b45ad534b8c24e9a3d, type: 3}
+  steps:
+  - Potong dada ayam kepada kiub kecil
+  - Gaulkan dengan serbuk kunyit dan sedikit garam. Perap selama 5 minit.
+  - Panaskan minyak dan goreng dada ayam di atas api yang besar. Kacau dengan kerap
+    supaya tidak mudah keras dan hangus.
+  - Masukkan bawang putih dan bawang merah. Teruskan mengacau.
+  - Apabila ayam hampir masak masukkan cili merah, bawang besar dan kacang panjang.
+  - Taburkan dengan sedikit gula.Kacau selama 1 minit, angkat dan hidang.
+  bahan:
+  - {fileID: 7410458949457363288, guid: cf85ecdb8b9d17b45ad534b8c24e9a3d, type: 3}
+  - {fileID: 1827823635777951822, guid: 0edeba667550f264782ab4149b42329d, type: 3}
+  - {fileID: 486343884040572632, guid: de9115d16d8d5174c9d8822dcda78c5b, type: 3}
+  - {fileID: 486343884040572632, guid: de9115d16d8d5174c9d8822dcda78c5b, type: 3}
+  - {fileID: 486343884040572632, guid: de9115d16d8d5174c9d8822dcda78c5b, type: 3}
+  - {fileID: 486343884040572632, guid: de9115d16d8d5174c9d8822dcda78c5b, type: 3}
+  bahanName:
+  - 300g ayam, bahagian dada
+  - 1 sudu kecil serbuk kunyit, Sedikit garam
+  - 2 senduk minyak masak
+  - 2 ulas bawang putih(hiris nipis), 1 biji bawang merah(hiris nipis)
+  - 4 batang kacang panjang(potong 2 inci), 1 biji bawang besar(hiris nipis),  1
+    biji cili merah(hiris nipis)
+  - Sedikit gula
+  videos:
+  - {fileID: 32900000, guid: 6c50f609333b96c44b844208dccb0bf3, type: 3}
+  - {fileID: 32900000, guid: 6c50f609333b96c44b844208dccb0bf3, type: 3}
+  - {fileID: 32900000, guid: 6c50f609333b96c44b844208dccb0bf3, type: 3}
+  - {fileID: 32900000, guid: 6c50f609333b96c44b844208dccb0bf3, type: 3}
+  - {fileID: 32900000, guid: 6c50f609333b96c44b844208dccb0bf3, type: 3}
+  - {fileID: 32900000, guid: 6c50f609333b96c44b844208dccb0bf3, type: 3}
